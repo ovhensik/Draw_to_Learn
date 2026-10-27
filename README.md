@@ -1,7 +1,7 @@
 # Draw to Learn
 
 <p align="center">
-  <img src="assets/draw-to-learn-screenshot.png" alt="Draw to Learn app screenshot">
+  <img src="assets/draw-to-learn-screenshot-updated.png" alt="Draw to Learn app screenshot">
 </p>
 
 Draw to Learn is a simple browser based value study drawing practice app that helps users study light and shadow. It shows real photos in grayscale, lets users simplify them into smooth value shapes, and provides a canvas with grayscale brushes and tablet pressure controls.
